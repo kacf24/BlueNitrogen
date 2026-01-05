@@ -63,3 +63,5 @@ Seagrasses (marine angiosperms), including genera Zostera, Thalassia, Halodule, 
 
 Quality control
 All extracted data were checked for unit consistency, transcription errors, and geographic accuracy. Values were standardized to common units and depths. Outliers were evaluated against original sources.
+
+The data dictionary for the dataset can be found on the first tab of "NP Literature Search Data.xlsx".
